@@ -1,0 +1,5 @@
+To create a branch: git branch rishi
+To switch branches: git checkout/switch rishi
+To see all the branches: git branch
+switch-c->is used to create a new branch and keeping that as the selected branch
+changes
